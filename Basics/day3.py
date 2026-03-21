@@ -20,6 +20,6 @@
 # print(myDict["one"])
 
 # Tupple
-mytuple = (1,3,5,4,6);
+mytuple = (1,3,5,4,6)
 print(mytuple[0])
 print(mytuple)
